@@ -1,7 +1,8 @@
 			{
 				"type": "field",
 				"domain": [
-                                       "domain:360.com"
+                                      "domain:ntdtv.com",
+					"domain:ntd.tv"
 				],
 				"outboundTag": "blocked"
 			}
